@@ -11,6 +11,7 @@
       </div>
     </div>
   </div>
+
   <div class="crane-container">
     <div class="crane-text">
       Nuestro enfoque principal está en apoyar a nuestros clientes en todo lo
@@ -19,6 +20,7 @@
     </div>
     <img src="@/assets/crane.jpg" alt="Crane" class="crane-image" />
   </div>
+
   <div class="lighter-teal-block">
     <div class="carousel-wrapper">
       <ServiceCarousel />
